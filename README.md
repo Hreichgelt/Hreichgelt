@@ -1,6 +1,6 @@
 ### Hi there 👋 It's me, Hans Reichgelt! A little about myself, 
 
-I graduate next week from the UNC-Charlotte Bootcamp with a Certificate in Full-stack web development. It has been a whirlwind, but I made it! 
+I just graduated from the UNC-Charlotte Bootcamp with a Certificate in Full-stack web development. It was a crazy experience, but I'm so thankful I did it! 
 
 
 - 🔭 I’m currently working on refactoring a REST API to a GraphQL API. 
