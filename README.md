@@ -7,7 +7,7 @@ I just graduated from the UNC-Charlotte Bootcamp with a Certificate in Full-stac
 - 🌱 I’m currently learning MERN
 - 🤔 I’m looking for help with landing my first job in tech! 
 - 💬 Ask me about my experience with a fulltime bootcamp, and how I survived.
-- 📫 How to reach me: hreichgelt06@gmail.com | https://www.linkedin.com/in/hans-reichgelt/ 
+- 📫 How to reach me: hreichgelt06@gmail.com | https://www.linkedin.com/in/hans-reichgelt/ | https://hans-reichgelt-portfolio.herokuapp.com/
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hreichgelt&theme=dracula)](https://git.io/streak-stats)
