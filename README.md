@@ -7,7 +7,7 @@ Fullstack Software Engineer pursuing my second career!
 - 🌱 I’m currently learning Agile Development.
 - 🤔 I’m looking for help landing my first role as a software engineer! 
 - 💬 Ask me about my experience with a fulltime bootcamp, and how I survived.
-- 📫 How to reach me: hreichgelt06@gmail.com | https://www.linkedin.com/in/hans-reichgelt/ | https://hans-reichgelt-portfolio.herokuapp.com/
+- 📫 How to reach me: hreichgelt06@gmail.com | https://www.linkedin.com/in/hans-reichgelt/ | https://hreichgelt.github.io/reichgelt-portfolio/
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hreichgelt&theme=dracula)](https://git.io/streak-stats)
